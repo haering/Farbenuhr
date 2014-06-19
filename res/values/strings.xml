@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Farbenuhr</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Made by Fabian Härer for SoFr 2014</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>

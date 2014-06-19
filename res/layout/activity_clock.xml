@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:dial="@drawable/clock"
-         />
+        android:hand_hour="@drawable/hourhand"
+        android:hand_minute="@drawable/minutehand" />
     
 </RelativeLayout>
