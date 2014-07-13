@@ -22,8 +22,8 @@ public final class R {
     }
     public static final class drawable {
         public static final int clock=0x7f020000;
-        public static final int hand=0x7f020001;
-        public static final int path4157=0x7f020002;
+        public static final int hourhand=0x7f020001;
+        public static final int minutehand=0x7f020002;
     }
     public static final class id {
         public static final int action_settings=0x7f090001;
